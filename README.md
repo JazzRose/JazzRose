@@ -20,10 +20,20 @@ Contact Me:
 - 🌱 I am a keen environmentalist and would love to work in the sector one day.
 - 🔭 Current CSS + JS React enthusiast.
 - 💬 Contact me via LinkedIn or email for any collaborations.
-
-
+<h3> Projects </h3>
+Geofun
+<div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun&theme=vue-dark)](https://github.com/JazzRose/GeoFun)
+</div>
+<hr/>
+TravelBug
+<div style = "display: flex; flex-direction: row">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist)
+ <img width="300" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png">
+
+ </div>
+ </hr>
+E-Commerce
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab&theme=vue-dark)](https://github.com/JazzRose/ecommerce-lab)
 
 <hr/>
