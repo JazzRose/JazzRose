@@ -22,13 +22,13 @@ Contact Me:
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun)](https://github.com/JazzRose/GeoFun)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist)](https://github.com/JazzRose/travel_bucketlist)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab)](https://github.com/JazzRose/ecommerce-lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun&theme=vue-dark)](https://github.com/JazzRose/GeoFun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab&theme=vue-dark)](https://github.com/JazzRose/ecommerce-lab)
 
 
 
-[![Jazz's github stats](https://github-readme-stats.vercel.app/api?username=JazzRose&show_icons=true&theme=vue-dark)](https://github.com/JazzRose)
+[![Jazz's github stats](https://github-readme-stats.vercel.app/api?username=JazzRose&show_icons=true&hide_rank=true&theme=vue-dark)](https://github.com/JazzRose)
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzRose&layout=compact&theme=vue-dark)](https://github.com/JazzRose)
 
