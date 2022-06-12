@@ -59,5 +59,6 @@ Tools Used:
 <hr/>
 <div style="display: flex; flex-direction: row" align="center" gap="30px">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=JazzRose&show_icons=true&hide_rank=true&theme=vue-dark" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazzRose&layout=compact&theme=vue-dark" />
 </div>
