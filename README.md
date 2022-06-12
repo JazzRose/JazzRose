@@ -29,7 +29,11 @@ Contact Me:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist)
 
-</hr>
+<a href="https://github.com/JazzRose/travel_bucketlist">
+    <img width="350" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png">
+</a>
+
+<hr/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab&theme=vue-dark)](https://github.com/JazzRose/ecommerce-lab)
 
