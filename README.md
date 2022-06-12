@@ -22,16 +22,23 @@ Contact Me:
 - 💬 Contact me via LinkedIn or email for any collaborations.
 <h3 align = "center"> Projects </h3>
 
+<div style="display: flex; flex-direction: row" align="center" gap="30px">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=JazzRose&show_icons=true&hide_rank=true&theme=vue-dark" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazzRose&layout=compact&theme=vue-dark" />
+</div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun&theme=vue-dark)](https://github.com/JazzRose/GeoFun)
 
 <hr/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist)
+<div style="display: flex; flex-direction: row" align="center" gap="30px">
+    <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark" />
 
-<a href="https://github.com/JazzRose/travel_bucketlist">
-    <img width="350" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png">
-</a>
+<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist) -->
+    <a href="https://github.com/JazzRose/travel_bucketlist">
+        <img width="350" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png">
+    </a>
+ </div>
 
 <hr/>
 
