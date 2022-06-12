@@ -27,7 +27,7 @@ Contact Me:
 <hr/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist)
-<h2>   </h2>
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img class = "img" width="350" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png"/>
 
 <hr/>
