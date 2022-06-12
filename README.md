@@ -3,13 +3,6 @@
 <h3 align = "center" > Hi there 👋 I am a Junior Developer who is currently completing an intensvie course in coding. </h3>
 <br/>
 
-##A Little about me:
-
-- 💻 I’m have just started learning my 3rd language: Java!
-- 🌱 I am a keen environmentalist and would love to work in the sector one day.
-- 🔭 Current CSS + JS React enthusiast.
-- 💬 Contact me via LinkedIn or email for any collaborations.
-
 <div align = "center">
 Contact Me:
 <br/>
@@ -20,6 +13,13 @@ Contact Me:
 </div>
 <br/>
 </div>
+
+##A Little about me:
+
+- 💻 I’m have just started learning my 3rd language: Java!
+- 🌱 I am a keen environmentalist and would love to work in the sector one day.
+- 🔭 Current CSS + JS React enthusiast.
+- 💬 Contact me via LinkedIn or email for any collaborations.
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun&theme=vue-dark)](https://github.com/JazzRose/GeoFun)
