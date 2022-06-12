@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="853" alt="banner" src="https://user-images.githubusercontent.com/101360549/173238489-5d1f2003-e517-4736-b85e-22b73941c1e8.png">
+<div>
 Contact Me:
 <br/>
 <div id="badges">
@@ -23,6 +24,7 @@ Contact Me:
   </a>
 </div>
 <br/>
+</div>
 
 [![Jazz's github stats](https://github-readme-stats.vercel.app/api?username=JazzRose)](https://github.com/JazzRose)
 
