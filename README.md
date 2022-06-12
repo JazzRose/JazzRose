@@ -10,7 +10,6 @@
 - 🔭 Current CSS + JS React enthusiast.
 - 💬 Contact me via LinkedIn or email for any collaborations.
 
-<img width="853" alt="banner" src="https://user-images.githubusercontent.com/101360549/173238489-5d1f2003-e517-4736-b85e-22b73941c1e8.png">
 <div>
 Contact Me:
 <br/>
@@ -21,6 +20,13 @@ Contact Me:
 </div>
 <br/>
 </div>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [![Jazz's github stats](https://github-readme-stats.vercel.app/api?username=JazzRose&show_icons=true&theme=vue-dark)](https://github.com/JazzRose)
 
