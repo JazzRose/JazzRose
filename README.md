@@ -22,15 +22,15 @@ Contact Me:
 - 💬 Contact me via LinkedIn or email for any collaborations.
 <h3> Projects </h3>
 
-Geofun
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun&theme=vue-dark)](https://github.com/JazzRose/GeoFun)
 
 <hr/>
-TravelBug
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist)
- <img width="300" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png">
+<!--  <img width="300" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png"> -->
 </hr>
-E-Commerce
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab&theme=vue-dark)](https://github.com/JazzRose/ecommerce-lab)
 
 <hr/>
