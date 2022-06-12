@@ -23,12 +23,14 @@ Contact Me:
 <h3 align = "center"> Projects </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun&theme=vue-dark)](https://github.com/JazzRose/GeoFun)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img class = "img" width="350" height = "300" alt="GeoFun" src="https://user-images.githubusercontent.com/101360549/173248714-b66be47b-be97-449d-87b5-c67d973d2634.png">
 
 <hr/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist)
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img class = "img" width="350" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img class = "img" width="350" height = "300" alt="travelPage" src="https://user-images.githubusercontent.com/101360549/173247352-9d8479f8-279e-4d3d-9667-241d6479376d.png"/>
 
 <hr/>
 
