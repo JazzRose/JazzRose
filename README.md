@@ -1,11 +1,15 @@
-<h2 align = "center" > Hi there 👋 I am a Junior Developer who is currently completing an intensvie course in coding. </h2>
+<img width="853" alt="banner" src="https://user-images.githubusercontent.com/101360549/173238489-5d1f2003-e517-4736-b85e-22b73941c1e8.png">
+
+<h3 align = "center" > Hi there 👋 I am a Junior Developer who is currently completing an intensvie course in coding. </h3>
+<br/>
+
+##A Little about me:
+
 - 💻 I’m have just started learning my 3rd language: Java!
 - 🌱 I am a keen environmentalist and would love to work in the sector one day, finding solutions to the worlds biggest issues.
 - 🔭 Current CSS + JS React enthusiast.
 - 💬 Contact me via LinkedIn or email for any collaborations.
-- 
-- 
-<
+
 <img width="853" alt="banner" src="https://user-images.githubusercontent.com/101360549/173238489-5d1f2003-e517-4736-b85e-22b73941c1e8.png">
 <div>
 Contact Me:
