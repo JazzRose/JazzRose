@@ -10,7 +10,7 @@
 - 🔭 Current CSS + JS React enthusiast.
 - 💬 Contact me via LinkedIn or email for any collaborations.
 
-<div>
+<div align = "center">
 Contact Me:
 <br/>
 <div id="badges">
@@ -37,7 +37,9 @@ Contact Me:
 
 <div>
 Tools Used:
-<div>
+<br/>
+<br/>
+<div background-color = "#ffffff">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -49,6 +51,10 @@ Tools Used:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  
 </div>
+</div>
+<hr/>
+<div style="display: flex; flex-direction: row" align="center" gap="30px">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=JazzRose&show_icons=true&hide_rank=true&theme=vue-dark" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazzRose&layout=compact&theme=vue-dark" />
 </div>
