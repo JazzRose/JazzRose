@@ -6,7 +6,7 @@
 ##A Little about me:
 
 - 💻 I’m have just started learning my 3rd language: Java!
-- 🌱 I am a keen environmentalist and would love to work in the sector one day, finding solutions to the worlds biggest issues.
+- 🌱 I am a keen environmentalist and would love to work in the sector one day.
 - 🔭 Current CSS + JS React enthusiast.
 - 💬 Contact me via LinkedIn or email for any collaborations.
 
@@ -22,9 +22,9 @@ Contact Me:
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=GeoFun)](https://github.com/JazzRose/GeoFun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist)](https://github.com/JazzRose/travel_bucketlist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab)](https://github.com/JazzRose/ecommerce-lab)
 
 
 
