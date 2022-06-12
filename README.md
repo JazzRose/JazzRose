@@ -26,7 +26,8 @@ Contact Me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=travel_bucketlist&theme=vue-dark)](https://github.com/JazzRose/travel_bucketlist)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab&theme=vue-dark)](https://github.com/JazzRose/ecommerce-lab)
 
-<div>
+<hr/>
+<div align = "center">
 Tools Used:
 <br/>
 <br/>
