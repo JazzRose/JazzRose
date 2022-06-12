@@ -26,9 +26,9 @@ Contact Me:
 <br/>
 </div>
 
-[![Jazz's github stats](https://github-readme-stats.vercel.app/api?username=JazzRose&show_icons=true&theme=merko)](https://github.com/JazzRose)
+[![Jazz's github stats](https://github-readme-stats.vercel.app/api?username=JazzRose&show_icons=true&theme=vue-dark)](https://github.com/JazzRose)
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzRose&layout=compact)](https://github.com/JazzRose)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzRose&layout=compact&theme=vue-dark)](https://github.com/JazzRose)
 
 <div>
 Tools Used:
