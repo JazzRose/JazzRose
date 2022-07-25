@@ -1,6 +1,6 @@
 <img width="853" alt="banner" src="https://user-images.githubusercontent.com/101360549/173238489-5d1f2003-e517-4736-b85e-22b73941c1e8.png">
 
-<h3 align = "center" > Hi there 👋 I am a Junior Developer who is currently completing an intensvie course in coding. </h3>
+<h3 align = "center" > Hi there 👋 I am a Junior Developer who has just completed an intensvie course in Software Development. </h3>
 <br/>
 
 <div align = "center">
@@ -14,7 +14,7 @@ Contact Me:
 <br/>
 </div>
 
-##A Little about me:
+A Little about me:
 
 - 💻 I’m have just started learning my 3rd language: Java!
 - 🌱 I am a keen environmentalist and would love to work in the sector one day.
@@ -34,9 +34,6 @@ Contact Me:
 
 <hr/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazzRose&repo=ecommerce-lab&theme=vue-dark)](https://github.com/JazzRose/ecommerce-lab)
-
-<hr/>
 
 <div align = "center">
 Tools Used:
