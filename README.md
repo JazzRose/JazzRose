@@ -1,6 +1,6 @@
 <img width="853" alt="banner" src="https://user-images.githubusercontent.com/101360549/173238489-5d1f2003-e517-4736-b85e-22b73941c1e8.png">
 
-<h3 align = "center" > Hi there 👋 I am a Software Developer, Currently working in DSA but always looking to learn more!. </h3>
+<h3 align = "center" > Hi there 👋 I am a Software Developer, Currently working in DSA but always looking to learn more! </h3>
 <br/>
 
 <div align = "center">
