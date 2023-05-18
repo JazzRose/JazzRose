@@ -16,9 +16,9 @@ Contact Me:
 
 A Little about me:
 
-- 💻 I’m have just started learning my 3rd language: Java!
+- 💻 Working in Digital Shel Analytics.
 - 🌱 I am a keen environmentalist and would love to work in the sector one day.
-- 🔭 Current CSS + JS React enthusiast.
+- 🔭 Current Typescript + JS React enthusiast.
 - 💬 Contact me via LinkedIn or email for any collaborations.
 <h3 align = "center"> Projects </h3>
 
